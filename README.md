@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning<u> github</u>
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me
+- 📫 How to reach me through my address
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
