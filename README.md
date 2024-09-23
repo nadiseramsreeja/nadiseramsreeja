@@ -1,8 +1,8 @@
-- 👋 Hi, I’m <br><h2><u> @nadiseramsreeja</u>
+- 👋 Hi, I’m <br><h2> @nadiseramsreeja
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning <u> github</u>
+- 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me <u> through my address</u>
+- 📫 How to reach me through my address
 - 😄 Pronouns:🎀
 - ⚡ Fun fact:😅 
 
